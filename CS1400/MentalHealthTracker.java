@@ -7,7 +7,6 @@ public class MentalHealthTracker {
 
     public static void main(String[] args) {
         System.out.println("Mental Health Daily Check-in: \n");
-        System.out.println("Mental Health Tracker");
         System.out.println("=====================");
         System.out.println("How are you feeling today?");
         System.out.println("1: Relaxed/Content\n2: Lonely/Insecure\n3: Productive/Motivated\n4: Tired/Drained\n5: Average/Fine\n6: Anxious/Frustrated");

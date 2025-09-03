@@ -12,6 +12,7 @@ https://youtu.be/KAUhpg100OI
 
 # Software and IDE used:
     - VS Code
+    - Git Hub
     - Git Bash
     - CapCut
 
